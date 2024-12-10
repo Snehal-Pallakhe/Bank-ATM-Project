@@ -8,7 +8,7 @@ public class BankApp {
 	public static void main(String[] args) {
 		boolean cond = true;
 		while (cond) {
-			System.out.println("BANK OF NARANDE");
+			System.out.println("***** Smart ATM *****");
 			System.out.println("-------------------------------");
 			System.out.println("Enter 1 for Account creation");
 			System.out.println("Enter 2 for Details ");
